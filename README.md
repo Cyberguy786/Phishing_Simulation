@@ -64,3 +64,8 @@ This project is **intended for educational purposes only** to demonstrate the da
 2. Navigate to the project directory:
    ```bash
    cd phishing_simulation
+3. Install Flask
+   pip install flask
+4. Run Flask
+   python app.py
+5. Open a web browser and visit http://127.0.0.1:5000 to interact with the phishing simulation.
