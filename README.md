@@ -69,3 +69,6 @@ This project is **intended for educational purposes only** to demonstrate the da
 4. Run Flask
    python app.py
 5. Open a web browser and visit http://127.0.0.1:5000 to interact with the phishing simulation.
+
+## Conclusion
+This project is a great way to understand how phishing attacks work and how attackers can exploit vulnerabilities. By learning about these threats, we can better protect ourselves from cybercriminals.
