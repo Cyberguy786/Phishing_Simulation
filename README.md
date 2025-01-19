@@ -51,10 +51,10 @@ This project simulates a phishing attack to demonstrate how easily user credenti
 ## Screenshots
 
 ### 1. **Fake Login Page**
-   ![Fake Login Page](Login_page.png)
+   ![Fake Login Page](login_page.PNG)
 
 ### 2. **Form Submission Confirmation**
-   ![Form Submission](Login_submission.png)
+   ![Form Submission](Login_Submission.PNG)
 
 ## Ethical Considerations
 This project is **intended for educational purposes only** to demonstrate the dangers of phishing and raise awareness about cybersecurity.
